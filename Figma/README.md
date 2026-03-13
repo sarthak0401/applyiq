@@ -6,6 +6,7 @@ Updates :
 - Created hero section design for the Landing page
 - Modified the UI for header and hero section
 - Added Features section wireframe
+- Modified the features section and planned for the next how it works section =
 
 
 <img width="1085" height="891" alt="image" src="https://github.com/user-attachments/assets/7bd2cf6d-e381-432c-bc99-23716f4b5870" />
@@ -15,4 +16,8 @@ Updates :
 - Update in the design
 
 <img width="1330" height="764" alt="image" src="https://github.com/user-attachments/assets/42267e27-9e40-4d37-8275-638b301887fc" />
+
+- Updated Features section
+
+
 
