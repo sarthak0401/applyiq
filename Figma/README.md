@@ -19,5 +19,5 @@ Updates :
 
 - Updated Features section
 
-
+<img width="957" height="597" alt="Screenshot 2026-03-13 210546" src="https://github.com/user-attachments/assets/e9810eb0-ce05-43d2-af09-97c30ea6cf85" />
 
